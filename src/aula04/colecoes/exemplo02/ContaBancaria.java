@@ -38,4 +38,12 @@ public class ContaBancaria {
 		System.out.println("Nome do titular: " + this.nomeTitular);
 		System.out.println("Saldo: R$" + String.format("%.2f", this.saldo));
 	}
+
+	public int getNumeroConta() {
+		return numeroConta;
+	}
+
+	public String getNomeTitular() {
+		return nomeTitular;
+	}
 }
