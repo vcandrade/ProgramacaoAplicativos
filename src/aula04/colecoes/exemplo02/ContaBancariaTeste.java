@@ -1,8 +1,5 @@
 package aula04.colecoes.exemplo02;
 
-import java.util.ArrayList;
-import java.util.List;
-
 public class ContaBancariaTeste {
 
 	public static void main(String[] args) {
