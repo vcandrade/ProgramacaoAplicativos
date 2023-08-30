@@ -3,8 +3,6 @@ package aula04.colecoes.exemplo01;
 import java.util.ArrayList;
 import java.util.List;
 
-import aula01.Carro;
-
 public class ExemploCollections {
 
 	public static void main(String[] args) {

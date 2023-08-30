@@ -1,13 +1,13 @@
-package aula01;
+package aula04.colecoes.exemplo01;
 
 public class Carro {
 
 	// atributos da classe Carro
-	String modelo;
-	String marca;
-	int ano;
-	String placa;
-	String cor;
+	private String modelo;
+	private String marca;
+	private int ano;
+	private String placa;
+	private String cor;
 
 	// método construtor da classe Carro
 	public Carro(String modelo, String marca, int ano, String placa, String cor) {
