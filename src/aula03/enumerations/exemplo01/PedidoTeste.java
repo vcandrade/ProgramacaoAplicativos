@@ -1,4 +1,4 @@
-package aula03.exemplo01;
+package aula03.enumerations.exemplo01;
 
 public class PedidoTeste {
 

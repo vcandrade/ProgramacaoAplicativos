@@ -1,4 +1,4 @@
-package aula03.exemplo02;
+package aula03.enumerations.exemplo02;
 
 public enum DiaSemana {
 
