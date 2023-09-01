@@ -34,11 +34,7 @@ public class MamiferoTeste {
 			
 			((Cachorro) mamifero).brincar();
 		
-		} else if(mamifero instanceof Gato) {
-			
-			
-		}
-		
+		}		
 	}
 }
 
